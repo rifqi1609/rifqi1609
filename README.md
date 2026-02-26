@@ -15,11 +15,14 @@ I don't position myself as "just a technical person." I position myself as a **d
 
 My core strengths:
 
-* **Business Framing & Decision Logic** Translating vague business problems into precise questions, measurable outcomes, and clear decision rules.
+* **Business Framing & Decision Logic**<br>
+  Translating vague business problems into precise questions, measurable outcomes, and clear decision rules.
 
-* **SQL & Python Analytics (Production Mindset)** Clean, reproducible, and structured workflows — not messy notebooks that die after presentation day.
+* **SQL & Python Analytics (Production Mindset)**<br>
+  Clean, reproducible, and structured workflows — not messy notebooks that die after presentation day.
 
-* **End-to-End Ownership** From raw data → pipeline → analysis → modeling → interpretation → decision layer → stakeholder communication.
+* **End-to-End Ownership**<br>
+  From raw data → pipeline → analysis → modeling → interpretation → decision layer → stakeholder communication.
 
 In short: I don't stop at "insights." I go all the way to **actionable recommendations.**
 
@@ -27,11 +30,18 @@ In short: I don't stop at "insights." I go all the way to **actionable recommend
 
 ### 📌 Signature projects (highlights worth your time)
 
-1. **Man Sock Market Research** Finding the pricing strategy and measuring effectiveness of product rating for Man Sock sales at Tokopedia.
+These aren't school assignments — they are **business-driven systems**.
 
-2. **Credit Card Customer Segmentation** Grouping customer with the same characteristics for understanding their pattern using credit card and purposed for gaining customer interaction and lifetime values.
+1. **Man Sock Market Research**<br>
+   Finding the pricing strategy and measuring effectiveness of product rating for Man Sock sales at Tokopedia.
 
-3. **LQ45 Stock Prediction** Predicting LQ45 stock which will go up 3% within 5 days with money flow and volume analysis.
+2. **Credit Card Customer Segmentation**<br>
+   Grouping customer with the same characteristics for understanding their pattern using credit card and purposed for gaining customer interaction and lifetime values.
+
+3. **LQ45 Stock Prediction**<br>
+   Predicting LQ45 stock which will go up 3% within 5 days with money flow and volume analysis.
+
+*(More projects below — each built with the same decision-first philosophy.)*
 
 ---
 
@@ -48,9 +58,15 @@ In short: I don't stop at "insights." I go all the way to **actionable recommend
 
 I'm targeting roles as a BI Analyst, Data Analyst, or Data Scientist in retail, consulting, or product/tech companies — environments where data truly shapes strategy and execution.
 
+If you value:
+* **clarity over complexity**,
+* **impact over vanity metrics**, and
+* **decisions over dashboards**,
+then you're looking at the right GitHub profile.
+
 ---
 
 ### 📫 Let's connect:
 
-* **LinkedIn:** [linkedin.com/in/rifqiasyrafi](https://www.linkedin.com/in/rifqiasyrafi/)
-* **Email:** [asyrafirifqi@gmail.com](mailto:asyrafirifqi@gmail.com)
+* **LinkedIn:** [linkedin.com/in/ilham-den-fatah](https://www.linkedin.com/in/ilham-den-fatah/)
+* **Email:** [denfatahilham@gmail.com](mailto:denfatahilham@gmail.com)
