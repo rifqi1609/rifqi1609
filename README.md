@@ -2,7 +2,7 @@
 
 👋 Hello and welcome!
 
-I'm Ilham Den Fatah, a **hybrid Data Analyst / Data Scientist** who operates at the intersection of **business, product, and data.** My work is grounded in one simple belief: the best analytics isn't the most complex — it's the most usable.
+I'm Rifqi Asyrafi, a **hybrid Data Analyst / Data Scientist** who operates at the intersection of **business, product, and data.** My work is grounded in one simple belief: the best analytics isn't the most complex — it's the most usable.
 
 Coming from a strong operational and business background, I learned early that beautiful models mean nothing if teams can't act on them. That's why my approach always follows the same arc:
 **clear problem framing → structured decision logic → reliable data → rigorous analysis → interpretable results → real business impact.**
@@ -28,27 +28,23 @@ In short: I don't stop at "insights." I go all the way to **actionable recommend
 
 ### 📌 Signature projects (highlights worth your time)
 
-These aren't school assignments — they are **business-driven systems**.
+1) **Man Sock Market Research**
+Finding the pricing strategy and measuring effectiveness of product rating for Man Sock sales at Tokopedia
 
-1) **Retail Demand Forecasting & Decision System**
-An end-to-end forecasting system designed not for leaderboard accuracy, but for real operational decisions — inventory planning, safety stock, and scenario analysis.
+2) **Credit Card Customer Segmentation**
+Grouping customer with the same characteristics for understanding their pattern using credit card and purposed for gaining customer interaction and lifetime values.
 
-2) **Retail Demand Risk Prioritization**
-A decision framework that ranks departments under demand uncertainty, translating technical signals into clear operational priorities.
-
-3) **Customer Lifetime Value (CLV) for Retail**
-A full workflow from data cleaning to probabilistic modeling and actionable customer segmentation for business strategy.
-
-*(More projects below — each built with the same decision-first philosophy.)*
+3) **LQ45 Stock Prediction**
+Predicting LQ45 stock which will go up 3% within 5 days with money flow and volume analysis.
 
 ---
 
 ### 🛠️ My technical toolkit
 
 * **Core:** Python, SQL
-* **Analytics & ML:** Pandas, NumPy, Scikit-learn, Statsmodels
+* **Analytics & ML:** Pandas, NumPy, Scikit-learn, Statsmodels, Excel
 * **Data Engineering mindset:** reproducible pipelines, config-driven workflows, clear documentation
-* **Visualization & Storytelling:** decision-focused dashboards, not vanity charts
+* **Visualization & Storytelling:** decision-focused dashboards
 
 ---
 
@@ -58,9 +54,9 @@ I'm targeting roles as a BI Analyst, Data Analyst, or Data Scientist in retail, 
 
 If you value:
 
-* **clarity over complexity**,
-* **impact over vanity metrics**,
-* **decisions over dashboards**
+* clarity over complexity
+* impact over vanity metrics
+* decisions over dashboards
 
 then you’re looking at the right GitHub profile.
 
@@ -68,5 +64,5 @@ then you’re looking at the right GitHub profile.
 
 ### 📫 Let’s connect:
 
-    LinkedIn : [https://www.linkedin.com/in/ilham-den-fatah/](https://www.linkedin.com/in/rifqiasyrafi/)
+    LinkedIn : https://www.linkedin.com/in/rifqiasyrafi/
     Email    : asyrafirifqi@gmail.com
