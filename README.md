@@ -62,7 +62,7 @@ then you’re looking at the right GitHub profile.
 
 ---
 
-### 📫 Let’s connect:
+### 📫 Let's connect:
 
-    LinkedIn : https://www.linkedin.com/in/rifqiasyrafi/
-    Email    : asyrafirifqi@gmail.com
+**LinkedIn:** [linkedin.com/in/rifqiasyrafi](https://www.linkedin.com/in/rifqiasyrafi/)
+**Email:** [asyrafirifqi@gmail.com](mailto:asyrafirifqi@gmail.com)
