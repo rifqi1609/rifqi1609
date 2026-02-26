@@ -28,14 +28,14 @@ In short: I don't stop at "insights." I go all the way to **actionable recommend
 
 ### 📌 Signature projects (highlights worth your time)
 
-1) **Man Sock Market Research**
-Finding the pricing strategy and measuring effectiveness of product rating for Man Sock sales at Tokopedia
+1. **Man Sock Market Research**
+   Finding the pricing strategy and measuring effectiveness of product rating for Man Sock sales at Tokopedia.
 
-2) **Credit Card Customer Segmentation**
-Grouping customer with the same characteristics for understanding their pattern using credit card and purposed for gaining customer interaction and lifetime values.
+2. **Credit Card Customer Segmentation**
+   Grouping customer with the same characteristics for understanding their pattern using credit card and purposed for gaining customer interaction and lifetime values.
 
-3) **LQ45 Stock Prediction**
-Predicting LQ45 stock which will go up 3% within 5 days with money flow and volume analysis.
+3. **LQ45 Stock Prediction**
+   Predicting LQ45 stock which will go up 3% within 5 days with money flow and volume analysis.
 
 ---
 
