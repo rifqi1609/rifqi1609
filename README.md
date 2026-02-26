@@ -64,5 +64,5 @@ then you’re looking at the right GitHub profile.
 
 ### 📫 Let's connect:
 
-**LinkedIn:** [linkedin.com/in/rifqiasyrafi](https://www.linkedin.com/in/rifqiasyrafi/)
-**Email:** [asyrafirifqi@gmail.com](mailto:asyrafirifqi@gmail.com)
+* **LinkedIn:** [linkedin.com/in/rifqiasyrafi](https://www.linkedin.com/in/rifqiasyrafi/)
+* **Email:** [asyrafirifqi@gmail.com](mailto:asyrafirifqi@gmail.com)
