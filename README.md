@@ -2,7 +2,7 @@
 
 👋 Hello and welcome!
 
-I'm Ilham Den Fatah, a **hybrid Data Analyst / Data Scientist** who operates at the intersection of **business, product, and data.** My work is grounded in one simple belief: the best analytics isn't the most complex — it's the most usable.
+I'm Rifqi Asyrafi, a **hybrid Data Analyst / Data Scientist** who operates at the intersection of **business, product, and data.** My work is grounded in one simple belief: the best analytics isn't the most complex — it's the most usable.
 
 Coming from a strong operational and business background, I learned early that beautiful models mean nothing if teams can't act on them. That's why my approach always follows the same arc:
 **clear problem framing → structured decision logic → reliable data → rigorous analysis → interpretable results → real business impact.**
@@ -59,14 +59,14 @@ These aren't school assignments — they are **business-driven systems**.
 I'm targeting roles as a BI Analyst, Data Analyst, or Data Scientist in retail, consulting, or product/tech companies — environments where data truly shapes strategy and execution.
 
 If you value:
-* **clarity over complexity**,
-* **impact over vanity metrics**, and
-* **decisions over dashboards**,
+* clarity over complexity,
+* impact over vanity metrics, and
+* decisions over dashboards
 then you're looking at the right GitHub profile.
 
 ---
 
 ### 📫 Let's connect:
 
-* **LinkedIn:** [linkedin.com/in/ilham-den-fatah](https://www.linkedin.com/in/ilham-den-fatah/)
-* **Email:** [denfatahilham@gmail.com](mailto:denfatahilham@gmail.com)
+* **LinkedIn:** [linkedin.com/in/rifqiasyrafi](https://www.linkedin.com/in/rifqiasyrafi/)
+* **Email:** [asyrafirifqi@gmail.com](mailto:asyrafirifqi@gmail.com)
