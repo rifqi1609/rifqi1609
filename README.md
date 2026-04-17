@@ -32,14 +32,15 @@ In short: I don't stop at "insights." I go all the way to **actionable recommend
 
 These aren't school assignments — they are **business-driven systems**.
 
-1. **Man Sock Market Research**<br>
-   Finding the pricing strategy and measuring effectiveness of product rating for Man Sock sales at Tokopedia.
 
-2. **Credit Card Customer Segmentation**<br>
-   Grouping customer with the same characteristics for understanding their pattern using credit card and purposed for gaining customer interaction and lifetime values.
+1. **PowerCo's Churn Risk Management**<br>
+   Composing a strategy for save **56.42%** of Potential Lost Profit by only handling **26,3%** of Potential Churn Customers.
 
-3. **LQ45 Stock Prediction**<br>
-   Predicting LQ45 stock which will go up 3% within 5 days with money flow and volume analysis.
+3. **Sales Analysis of Fassili Food**<br>
+   Exploring insight for strengthening sales sustainability and identifying potential opportunities.
+
+3. **Man Sock Market Research**<br>
+   Discovering the pricing strategy option and review-based marketing to reach 100 million profit within one year of our new product.
 
 *(More projects below — each built with the same decision-first philosophy.)*
 
